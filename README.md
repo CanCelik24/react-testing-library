@@ -1,3 +1,24 @@
+# React Testing Library
+
+
+[Kodluyoruz](https://www.kodluyoruz.org/)  Front-End eğitimi için hazırlanan 'Orta Seviye Front-End Web Development Patikası' projesidir. 
+
+Konu: React'ın kendi dokümanlarında paylaşılan örnek projerde bulunan ve halihazırda çalışan bir uygulamanın test kodunu yazmak.
+
+
+Proje Görseli: 
+![Alt text](src/img/react-testing-lib-gorsel.png)
+
+### [Patika.dev Profilim](https://app.patika.dev/canncelik)
+### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24)
+#### [www.patika.dev](https://app.patika.dev/)
+
+
+
+
+<hr>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
